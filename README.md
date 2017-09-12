@@ -1,4 +1,4 @@
-# Script to generate a bunch of files of a type with random names
+# Script to generate a bunch of files of a type given a names csv
 
 Dedicated to my boy Thomas Chang
 
